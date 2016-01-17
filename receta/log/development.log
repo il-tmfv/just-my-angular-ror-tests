@@ -10,3 +10,36 @@ Started GET "/rails/info/properties" for 127.0.0.1 at 2016-01-17 14:45:45 +0300
 Processing by Rails::InfoController#properties as */*
   Rendered /home/format/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/railties-4.2.4/lib/rails/templates/rails/info/properties.html.erb (0.4ms)
 Completed 200 OK in 78ms (Views: 21.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-17 16:12:25 +0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 4100ms (Views: 4100.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-01-17 16:12:29 +0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 28ms (Views: 27.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-01-17 16:12:29 +0300
+
+
+Started GET "/assets/application.self-f1b920bdb45986d16170238a9ad883af54d93167e19d4f6b45793d872aaad0fb.css?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
+
+
+Started GET "/assets/jquery/dist/jquery.self-977e28a4e7fded7698789e394a585c6339d54c0ad1537f498a40d2800098a521.js?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
+
+
+Started GET "/assets/angular/angular.self-d7c642a2239d433e219a2df47d65f3290d6ec49b679e42a3c8e8099a4a86d8f0.js?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
+
+
+Started GET "/assets/app.self-f2797b83a8b3b646aca753d94fbc13f68c34b2486ee2c591ebccd537419b624c.js?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-01-17 16:12:30 +0300
